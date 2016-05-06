@@ -1,5 +1,5 @@
 """
-Approximation of pi by Monte Carlo implementation.
+Approximation of pi by direct sampling.
 2016-04-30
 """
 
