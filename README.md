@@ -3,4 +3,4 @@ Everything which isn't worthy of having a separate repository goes here. Short c
 
 ## Contents
 * minesweeper_text.py: Text implementation of minesweeper.
-* Monte Carlo Pi.py: Returns pi via a Monte Carlo game.
+* directsampling_pi.py: Returns pi via direct sampling.
