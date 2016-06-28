@@ -4,3 +4,4 @@ Everything which isn't worthy of having a separate repository goes here. Short c
 ## Contents
 * minesweeper_text.py: Text implementation of minesweeper.
 * directsampling_pi.py: Returns pi via direct sampling.
+* collatz.py: Implementation of Collatz algorithm which accepts a seed from the user.
