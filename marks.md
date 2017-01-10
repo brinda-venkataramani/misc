@@ -3,10 +3,10 @@ Might as well document my marks in all relevant courses over the course of my un
 ```
 Course Code   Course Title                               %-age   Grade
 PHY256        Introduction to Quantum Mechanics          90      A+ 
-MAT224        Linear Algebra II                          78      B+
+MAT224        Linear Algebra II                          73      B
 MAT235        Multivariable Calculus                     90 (IP) A+ (IP)
-STA220        Principles and Practice of Statistics I    90 (IP) A+ (IP)
-PHY356        Quantum Physics I                          81 (IP) A- (IP)
+STA220        Principles and Practice of Statistics I    68 (IP) C+ (IP)
+PHY356        Quantum Physics I                          73 (IP) B (IP)
 ```
 
 I find the distribution of my marks to be quite interesting as well.
