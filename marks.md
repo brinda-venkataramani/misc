@@ -5,8 +5,10 @@ Course Code   Course Title                               %-age   Grade
 PHY256        Introduction to Quantum Mechanics          90      A+ 
 MAT224        Linear Algebra II                          73      B
 MAT235        Multivariable Calculus                     90 (IP) A+ (IP)
-STA220        Principles and Practice of Statistics I    68 (IP) C+ (IP)
-PHY356        Quantum Physics I                          73 (IP) B (IP)
+PHY356        Quantum Physics I                          73      B 
+PHY357        Nuclear and Particle Physics               IP      IP
+PHY358        Atoms, Molecules and Solids                IP      IP
+APM346        Partial Differential Equations             IP      IP
 ```
 
 I find the distribution of my marks to be quite interesting as well.
