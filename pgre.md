@@ -6,7 +6,8 @@ Electrodynamics           Griffiths           Jackson
 Classical Mechanics       Kleppner            Serway/Giancoli     Landau
 Quantum Mechanics         Griffiths           Desai
 Thermodynamics            Cengel              Chang (*)
-Special Relativity
+Special Relativity        Harris
+Optics and Waves          King
 ```
 
 I also used "Conquering the Physics GRE" by Kahn and Anderson and "Physics: A Student's Companion" by Lowry Kirkby as supplemental resources. Schaum's, "3000 Solved Problems in Physics" was also an invaluable resource. I will post my score here as soon as I have it.
