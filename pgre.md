@@ -1,12 +1,12 @@
 I wanted to outline my prep for the pGRE here. I've compiled a list of texts I plan to work through over the next few weeks/months. I plan on writing the test in November 2017.
 
 ```
-Topic                     Text 1              Text 2              Text 3
+Topic                     Text 1              Text 2              Text 3            Text 4
 Electrodynamics           Griffiths           Jackson
-Classical Mechanics       Kleppner            Serway/Giancoli     Landau
+Classical Mechanics       Kleppner            Serway/Giancoli     Landau            Morin
 Quantum Mechanics         Griffiths           Desai               Shankar
 Thermodynamics            Cengel              Chang (*)
-Special Relativity        Harris
+Special Relativity        Harris              Griffiths
 Optics and Waves          King                Harris
 ```
 
