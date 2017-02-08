@@ -1,2 +1,2 @@
 # Lagrangian mechanics
-## Path of least distance
+## Generalized coordinates
