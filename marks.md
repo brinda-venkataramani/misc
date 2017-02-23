@@ -7,8 +7,8 @@ MAT224        Linear Algebra II                          73      B             C
 MAT223        Linear Algebra I                           71      B-            C+
 MAT235        Multivariable Calculus                     90 (IP) A+ (IP)       
 PHY356        Quantum Physics I                          73      B             C+
-PHY357        Nuclear and Particle Physics               IP      IP
-PHY358        Atoms, Molecules and Solids                IP      IP
+PHY357        Nuclear and Particle Physics               91 (IP) A+ (IP)
+PHY358        Atoms, Molecules and Solids                95 (IP) A+ (IP)
 ```
 
 I find the distribution of my marks to be quite interesting as well.
