@@ -1,4 +1,4 @@
-I wanted to outline my prep for the pGRE here. I've compiled a list of texts I plan to work through over the next few weeks/months. I plan on writing the test in November 2017.
+I wanted to outline my prep for the pGRE here. I've compiled a list of texts I plan to work through over the next few weeks/months. I plan on writing the test in November 2018.
 
 ```
 Topic                     Text 1              Text 2              Text 3            Text 4              Text 5
