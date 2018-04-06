@@ -1,4 +1,4 @@
-Grades are based on a 12.0 scale. 
+Grades received in final two years of my undergraduate degree at McMaster. 
 
 ```
 Course Code    Course Title                               Grade (on 12.0 scale)
