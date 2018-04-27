@@ -1,4 +1,4 @@
-Grades received in final two years of my undergraduate degree at McMaster. 
+Grades received in final two years of my undergraduate degree at McMaster. There's no real ordering to the courses within each term.
 
 ```
 Course Code    Course Title                               Grade (on 12.0 scale)
@@ -11,7 +11,18 @@ Physics 2G03   Scientific Computing                       12
 Physics 3MM3   Quantum Mechanics 1                        11
 
 Winter 2018
-Physics 2E03   Mechanics
-Math 3D03      Mathematical Physics 2
+Physics 2E03   Mechanics                                   9
+Math 3D03      Mathematical Physics 2                     10
+
+Summer 2018
+Physics 1AA3   Introductory Physics 2
+Math 1AA3      Calculus 2
+
+Fall 2018
+Physics 4B03   Electromagnetic Theory
+Physics 3D03A  Reading in Physics
+Math 3A03      Real Analysis
+Math 4B03      Calculus on Manifolds
+Physics 4G03   Computational Methods in Physics
 
 ```
