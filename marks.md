@@ -22,10 +22,9 @@ Physics 1AA3   Introductory Physics 2
 Math 1AA3      Calculus 2
 
 Fall 2018
-Physics 4B03   Electromagnetic Theory
 Physics 3D03A  Reading in Physics
 Math 3A03      Real Analysis
-Math 4B03      Calculus on Manifolds
+Math 4L03      Introduction to Logic
 Physics 4G03   Computational Methods in Physics
 
 ```
