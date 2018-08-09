@@ -15,11 +15,11 @@ Physics 2E03   Mechanics                                   9
 Math 3D03      Mathematical Physics 2                     10
 
 Spring 2018
-Math 4ET3      Topics in Algebra.                         12
+Math 4ET3      Topics in Algebra                          12
 
 Summer 2018
-Physics 1AA3   Introductory Physics 2
-Math 1AA3      Calculus 2
+Physics 1AA3   Introductory Physics 2                      8
+Math 1AA3      Calculus 2                                 12
 
 Fall 2018
 Physics 3D03A  Reading in Physics
