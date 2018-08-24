@@ -30,7 +30,6 @@ Physics 3A03   General Relativity
 Physics 3D03B  Inquiry in Physics 
 Physics 3K03   Thermodynamics and Statistical Mechanics
 Physics 4Q03   Introduction to Quantum Field Theory
-Physics 4F03   Quantum Mechanics 2
 Math 3X03      Complex Analysis 1
 Math 3QC3      Introduction to Quantum Computing
 
