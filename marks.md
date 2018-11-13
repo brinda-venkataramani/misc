@@ -20,17 +20,17 @@ Physics 1AA3   Introductory Physics 2                      8
 Math 1AA3      Calculus 2                                 12
 
 Fall 2018
-Physics 3D03A  Inquiry in Physics
 Math 3A03      Real Analysis 1
 Math 4L03      Introduction to Logic
-Physics 4G03   Computational Methods in Physics
 
 Winter 2019
-Physics 3A03   General Relativity
-Physics 3D03B  Inquiry in Physics 
-Physics 3K03   Thermodynamics and Statistical Mechanics
-Physics 4Q03   Introduction to Quantum Field Theory
 Math 3X03      Complex Analysis 1
-Math 3QC3      Introduction to Quantum Computing
+Math 4GR3      Groups and Rings
+Math 4LT3      Topics in Logic
+Math 4E03      Galois Theory
+Math 3FF3      Partial Differential Equations
+Math 3T03      Inquiry in Topology
 
 ```
+
+I switched into math in Fall 2018.
