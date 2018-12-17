@@ -20,8 +20,8 @@ Physics 1AA3   Introductory Physics 2                      8
 Math 1AA3      Calculus 2                                 12
 
 Fall 2018
-Math 3A03      Real Analysis 1
-Math 4L03      Introduction to Logic
+Math 3A03      Real Analysis 1                            12
+Math 4L03      Introduction to Logic                      11
 
 Winter 2019
 Math 3X03      Complex Analysis 1
