@@ -43,9 +43,10 @@ Course Code         Course Title                               Grade (on 12.0 sc
 Math (4/6)ET3       Topics in Algebra                          12
 Math (4/6)L03       Introduction to Logic                      11
 Math (4/6)GR3       Groups and Rings
-Math (4/6)LT3       Topics in Logic
+Math (4/6)LT3       Topics in Logic                                                  [*]
 Math (4/6)E03       Galois Theory   
 
-```
+[*] Combined cohort with Math 712 in Winter 2019 when I took the course.
 
+```
 
