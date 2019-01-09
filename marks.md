@@ -59,7 +59,7 @@ Here are my GPA totals for my 4th/5th year (I update this as and when I receive 
 GPA in Mathematics: 11.25 (~ 3.9/4.0) [*]
 Overall GPA: 10.83 (~ 3.85/4.0)
 
-My overall GPA in Mathematics over all 5 years of my degree studies at McMaster is 10.5 (~3.8/4.0).
+My overall GPA in Mathematics over all 5 years of my degree studies at McMaster is 10.5 (~ 3.8/4.0).
 
 ```
 
