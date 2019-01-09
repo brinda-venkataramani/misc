@@ -50,7 +50,7 @@ Math (4/6)E03       Galois Theory
 
 ```
 
-Here are my GPA totals for 3rd/4th/5th year (I update this as and when I receive my grades):
+Here are my GPA totals for my 4th/5th year (I update this as and when I receive my grades):
 
 ```
 
