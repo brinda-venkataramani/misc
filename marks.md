@@ -50,3 +50,12 @@ Math (4/6)E03       Galois Theory
 
 ```
 
+Here are my GPA totals for 3rd/4th/5th year (I update this as and when I receive my grades):
+
+```
+
+GPA in Mathematics: 11.25 (~ 3.9/4.0)
+Overall GPA: 10.83 (~ 3.85/4.0)
+
+```
+
