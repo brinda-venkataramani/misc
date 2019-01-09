@@ -1,7 +1,7 @@
 Grades received in final two years of my undergraduate degree at McMaster. There's no real ordering to the courses within each term.
 
 ```
-Course Code    Course Title                               Grade (on 12.0 scale)
+Course Code    Course Title                               Grade (on 12.0 scale) [*]
 
 Fall 2017
 Math 1C03      Introduction to Mathematical Thinking      11
@@ -31,6 +31,8 @@ Math 4E03      Galois Theory
 Math 3FF3      Partial Differential Equations
 Math 3T03      Inquiry in Topology
 
+[*] For conversion to 4.0 scale, see this ';
+
 ```
 
 I switched into math in Fall 2018.
@@ -54,8 +56,10 @@ Here are my GPA totals for my 4th/5th year (I update this as and when I receive 
 
 ```
 
-GPA in Mathematics: 11.25 (~ 3.9/4.0)
+GPA in Mathematics: 11.25 (~ 3.9/4.0) [*]
 Overall GPA: 10.83 (~ 3.85/4.0)
+
+My overall GPA in Mathematics over all 5 years of my undergraduate degree studies at McMaster is 10.5 (~3.8/4.0).
 
 ```
 
