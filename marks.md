@@ -14,7 +14,7 @@ Winter 2018
 Physics 2E03   Mechanics                                   9
 Math 3D03      Mathematical Physics 2                     10
 
-Summer 2018
+Spring/Summer 2018
 Math 4ET3      Topics in Algebra                          12
 Physics 1AA3   Introductory Physics 2                      8
 Math 1AA3      Calculus 2                                 12
@@ -30,9 +30,13 @@ Math 4LT3      Topics in Logic
 Math 4E03      Galois Theory
 Math 3T03      Inquiry in Topology
 
+Spring/Summer 2019
+Math 4W03      Reading in Mathematics                                                 [**] 
+
 [*] For conversion to 4.0 scale, see this ';
 
 ```
+
 
 I switched into math in Fall 2018.
 
@@ -45,9 +49,11 @@ Math (4/6)ET3       Topics in Algebra                          12
 Math (4/6)L03       Introduction to Logic                      11
 Math (4/6)GR3       Groups and Rings
 Math (4/6)LT3       Topics in Logic                                                  [*]
-Math (4/6)E03       Galois Theory   
+Math (4/6)E03       Galois Theory 
+Math 4W03           Reading in Mathematics                                           [**]
 
-[*] Combined cohort with Math 712 in Winter 2019 when I took the course.
+[*] Combined cohort with Math 712 in Winter 2019 when I took the course. The topic was model theory of the p-adics. At the end of the term, I gave a talk on a paper by Lou van den Dries entitled "Elimination of quantifiers in algebraic structures". The now edited slides are available somewhere on my Github. 
+[**] This was a reading course I took under the supervision of Dr. Valeriote. The topic was the theory of computation. essentially spent the term working through the book Introduction to the Theory of Computation by Sipser, and giving small talks on the content to my small group of peers.
 
 ```
 
