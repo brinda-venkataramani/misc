@@ -25,10 +25,9 @@ Math 4L03      Introduction to Logic                      11
 
 Winter 2019
 Math 3X03      Complex Analysis 1
-Math 4GR3      Groups and Rings
+Math 4GR3      Groups and Rings                           11
 Math 4LT3      Topics in Logic
 Math 4E03      Galois Theory
-Math 3FF3      Partial Differential Equations
 Math 3T03      Inquiry in Topology
 
 [*] For conversion to 4.0 scale, see this ';
