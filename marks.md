@@ -40,14 +40,14 @@ Math 4W03      Reading in Mathematics                                           
 
 I switched into math in Fall 2018.
 
-Note that Math 4ET3, Math 4L03, Math 4GR3, Math 4LT3, and Math 4E03,  are equivalent to the following graduate level courses: Math 6ET3, Math 6L03, Math 6GR3, Math 6LT3, and Math 6E03. More specifially, here are a list of the graduate courses I have taken in math:
+Note that Math 4ET3, Math 4L03, Math 4GR3, Math 4LT3, and Math 4E03,  are equivalent to the following graduate level courses: Math 6ET3, Math 6L03, Math 6GR3, Math 6LT3, and Math 6E03. I have taken two reading courses in mathematics (4W03). More specifially, here are a list of the graduate courses I have taken in math:
 
 ```
 Course Code         Course Title                               Grade (on 12.0 scale)
 
 Math (4/6)ET3       Topics in Algebra                          12
 Math (4/6)L03       Introduction to Logic                      11
-Math (4/6)GR3       Groups and Rings
+Math (4/6)GR3       Groups and Rings                           11
 Math (4/6)LT3       Topics in Logic                                                  [*]
 Math (4/6)E03       Galois Theory 
 Math 4W03           Reading in Mathematics                                           [**]
