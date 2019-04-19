@@ -1,2 +1,0 @@
-# Lagrangian mechanics
-## Generalized coordinates
