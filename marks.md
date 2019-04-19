@@ -26,9 +26,9 @@ Math 4L03      Introduction to Logic                      11
 Winter 2019
 Math 3X03      Complex Analysis 1
 Math 4GR3      Groups and Rings                           11
-Math 4LT3      Topics in Logic
-Math 4E03      Galois Theory
-Math 3T03      Inquiry in Topology
+Math 4LT3      Topics in Logic                            
+Math 4E03      Galois Theory                              
+Math 3T03      Inquiry in Topology                        
 
 Spring/Summer 2019
 Math 4W03      Reading in Mathematics                                                 [**] 
@@ -67,4 +67,3 @@ Overall GPA: 10.83 (~ 3.85/4.0)
 My overall GPA in math over all 5 years of my undergraduate studies at McMaster is 10.5 (~ 3.8/4.0).
 
 ```
-
