@@ -26,8 +26,8 @@ Math 4L03      Introduction to Logic                      11
 Winter 2019
 Math 3X03      Complex Analysis 1
 Math 4GR3      Groups and Rings                           11
-Math 4LT3      Topics in Logic                            
-Math 4E03      Galois Theory                              
+Math 4LT3      Topics in Logic                            11                          
+Math 4E03      Galois Theory                              12 
 Math 3T03      Inquiry in Topology                        
 
 Spring/Summer 2019
@@ -48,8 +48,8 @@ Course Code         Course Title                               Grade (on 12.0 sc
 Math (4/6)ET3       Topics in Algebra                          12
 Math (4/6)L03       Introduction to Logic                      11
 Math (4/6)GR3       Groups and Rings                           11
-Math (4/6)LT3       Topics in Logic                                                  [*]
-Math (4/6)E03       Galois Theory 
+Math (4/6)LT3       Topics in Logic                            11                      [*]
+Math (4/6)E03       Galois Theory                              12
 Math 4W03           Reading in Mathematics                                           [**]
 
 [*] Combined cohort with Math 712 in Winter 2019 when I took the course. The topic was model theory of the p-adics. At the end of the term, I gave a talk on a paper by Lou van den Dries entitled "Elimination of quantifiers in algebraic structures". The now edited slides are available somewhere on my Github. 
