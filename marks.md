@@ -24,7 +24,7 @@ Math 3A03      Real Analysis 1                            12
 Math 4L03      Introduction to Logic                      11
 
 Winter 2019
-Math 3X03      Complex Analysis 1
+Math 3X03      Complex Analysis 1                         8
 Math 4GR3      Groups and Rings                           11
 Math 4LT3      Topics in Logic                            11                          
 Math 4E03      Galois Theory                              12 
