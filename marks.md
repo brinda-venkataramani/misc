@@ -28,7 +28,7 @@ Math 3X03      Complex Analysis 1                         8
 Math 4GR3      Groups and Rings                           11
 Math 4LT3      Topics in Logic                            11                          
 Math 4E03      Galois Theory                              12 
-Math 3T03      Inquiry in Topology                        
+Math 3T03      Inquiry in Topology                        11
 
 Spring/Summer 2019
 Math 4W03      Reading in Mathematics                                                 [**] 
