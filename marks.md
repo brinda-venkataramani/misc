@@ -50,7 +50,7 @@ Math (4/6)L03       Introduction to Logic                      11
 Math (4/6)GR3       Groups and Rings                           11
 Math (4/6)LT3       Topics in Logic                            11                      [*]
 Math (4/6)E03       Galois Theory                              12
-Math 4W03           Reading in Mathematics                                           [**]
+Math 4W03           Reading in Mathematics                                            [**]
 
 [*] Combined cohort with Math 712 in Winter 2019 when I took the course. The topic was model theory of the p-adics. At the end of the term, I gave a talk on a paper by Lou van den Dries entitled "Elimination of quantifiers in algebraic structures". The now edited slides are available somewhere on my Github. 
 [**] This was a reading course I took under the supervision of Dr. Valeriote. The topic was the theory of computation. essentially spent the term working through the book Introduction to the Theory of Computation by Sipser, and giving small talks on the content to my small group of peers.
