@@ -1,6 +1,6 @@
 # Books I'm reading/have read/want to read
 
-These are the books I'm using to prepare for the comprehensive exams and graduate school. This list is incomplete.
+These are the books I'm using to prepare for the comprehensive exams and graduate school. This list is glaringly incomplete.
 
 ## Analysis
 - Principles of Mathematical Analysis - Walter Rudin
