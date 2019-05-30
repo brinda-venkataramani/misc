@@ -37,7 +37,6 @@ Math 4W03      Reading in Mathematics                                           
 
 ```
 
-
 I switched into math in Fall 2018.
 
 Note that Math 4ET3, Math 4L03, Math 4GR3, Math 4LT3, and Math 4E03,  are equivalent to the following graduate level courses: Math 6ET3, Math 6L03, Math 6GR3, Math 6LT3, and Math 6E03. I have taken two reading courses in mathematics (4W03). More specifially, here are a list of the graduate courses I have taken in math:
@@ -63,5 +62,15 @@ Here are my GPA totals for my 4th/5th year (I update this as and when I receive 
 
 GPA in Mathematics: 11.0 (~ 3.9/4.0) [*]
 Overall GPA: 10.76 (~ 3.8/4.0)
+
+```
+
+Here are my standardized test scores:
+
+```
+Test                Score
+General GRE
+Mathematics GRE
+Physics GRE
 
 ```
