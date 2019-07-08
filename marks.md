@@ -65,7 +65,9 @@ Overall GPA: 10.76 (~ 3.8/4.0)
 
 ```
 
-Here are my standardized test scores:
+I was admitted into the graduate program at McMaster itself. I decided that I would spend the year writing all the standardized tests necessary to get into a top tier graduate school in the US for my PhD. I also decided to take the PhD qualifying exams at McMaster this year, since Master's students are eligible to attempt it with no penalty. Supposedly, it looks good on an application.
+
+To that effect, here are my standardized test scores:
 
 ```
 Test                Score
@@ -73,5 +75,30 @@ Test                Score
 General GRE
 Mathematics GRE
 Physics GRE
+
+```
+
+Here is my score on the comprehensive exam:
+
+```
+Test                Score
+
+Comprehensive Exam
+
+```
+
+Of course, academic excellence is also a prerequisite to be considered for admission into a top tier graduate school. So here are my marks acheived in my Master's degree (I haven't decided on a third course for the Winter term; I'm hoping Lie Groups is offered. Otherwise, I'll probably take Algebra I or something; maybe Analysis II. I plan on sitting in on Analysis I in the Fall term.):
+
+```
+Course Code    Course Title                               Grade (on 12.0 scale) [*]
+
+Fall 2019
+Math 701       Algebra I
+Math 711       Model Theory
+Math 731       Algebraic Topology I
+
+Winter 2020
+Math 732       Algebraic Topology II
+Math 712       Topics in Foundations
 
 ```
