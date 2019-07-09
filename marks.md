@@ -31,7 +31,7 @@ Math 4E03      Galois Theory                              12
 Math 3T03      Inquiry in Topology                        11
 
 Spring/Summer 2019
-Math 4W03      Reading in Mathematics                                                 [**] 
+Math 4W03      Reading in Mathematics                     11                          [**] 
 
 [*] For conversion to 4.0 scale, see this ';
 
