@@ -95,10 +95,13 @@ Course Code    Course Title                               Grade (on 12.0 scale) 
 Fall 2019
 Math 701       Algebra I
 Math 711       Model Theory
+Math 721       Analysis I
 Math 731       Algebraic Topology I
+Math 790       Major Research Project
 
 Winter 2020
+Math 6LT3      Topics in Foundations
 Math 732       Algebraic Topology II
-Math 712       Topics in Foundations
+Math 790       Major Research Project
 
 ```
