@@ -93,7 +93,6 @@ Of course, academic excellence is also a prerequisite to be considered for admis
 Course Code    Course Title                               Grade (on 12.0 scale) [*]
 
 Fall 2019
-Math 701       Algebra I
 Math 711       Model Theory
 Math 721       Analysis I
 Math 731       Algebraic Topology I
