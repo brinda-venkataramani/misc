@@ -100,6 +100,7 @@ Math 790       Major Research Project
 
 Winter 2020
 Math 6LT3      Topics in Foundations
+Math 722       Analysis II
 Math 732       Algebraic Topology II
 Math 790       Major Research Project
 
