@@ -72,7 +72,7 @@ To that effect, here are my standardized test scores:
 ```
 Test                Score
 
-General GRE         168q; 162v; --w
+General GRE         168q; 161v; 4.5w
 Mathematics GRE
 Physics GRE
 
