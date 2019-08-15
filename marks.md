@@ -72,9 +72,8 @@ To that effect, here are my standardized test scores:
 ```
 Test                Score
 
-General GRE         168q; 161v; 4.5w
+General GRE         168q (~ 95th percentile); 161v (~ 89th percentile); 4.5w (~ 81st percentile)
 Mathematics GRE
-Physics GRE
 
 ```
 
@@ -87,7 +86,7 @@ Comprehensive Exam
 
 ```
 
-Of course, academic excellence is also a prerequisite to be considered for admission into a top tier graduate school. So here are my marks acheived in my Master's degree (I haven't decided on a third course for the Winter term; I'm hoping Lie Groups is offered. Otherwise, I'll probably take Algebra I or something; maybe Analysis II. I plan on sitting in on Analysis I in the Fall term.):
+Of course, academic excellence is also a prerequisite to be considered for admission into a top tier graduate school. So here are my marks acheived in my Master's degree (I haven't decided on a third course for the Winter term; I'm hoping Lie Groups is offered. Otherwise, I'll probably take Algebra II or something; maybe Analysis II. I plan on sitting in on Algebra I in the Fall term.):
 
 ```
 Course Code    Course Title                               Grade (on 12.0 scale) [*]
