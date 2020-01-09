@@ -73,7 +73,7 @@ To that effect, here are my standardized test scores:
 Test                Score
 
 General GRE         168q (~ 95th percentile); 161v (~ 89th percentile); 4.5w (~ 81st percentile)
-Mathematics GRE
+Mathematics GRE     (to be written in April 2020)
 
 ```
 
@@ -89,18 +89,20 @@ Comprehensive Exam
 Of course, academic excellence is also a prerequisite to be considered for admission into a top tier graduate school. So here are my marks acheived in my Master's degree (I haven't decided on a third course for the Winter term; I'm hoping Lie Groups is offered. Otherwise, I'll probably take Algebra II or something; maybe Analysis II. I plan on sitting in on Algebra I in the Fall term.):
 
 ```
-Course Code    Course Title                               Grade (on 12.0 scale) [*]
+Course Code    Course Title                               Grade (on 12.0 scale)
 
 Fall 2019
-Math 711       Model Theory
-Math 721       Analysis I
-Math 731       Algebraic Topology I
+Math 6B03      Calculus on Manifolds                      12                    [*]
+Math 711       Model Theory                               12
+Math 721       Analysis I                                 IP                    [**]
+Math 731       Algebraic Topology I                       11
 Math 790       Major Research Project
 
 Winter 2020
-Math 6LT3      Topics in Foundations
-Math 722       Analysis II
-Math 732       Algebraic Topology II
+Math 6LT3      Topics in Logic
 Math 790       Major Research Project
+
+[*] - This course is a crosslisted undergraduate course. As a graduate student I had to give a talk on a topic of my choosing at the end of the semester. To this effect, I gave a presentation on various isoperimetric inequalities. I received 20/20 on the presentation.
+[**] - I gave a talk for this course as well. My talk was on the cardinality of the Lebesgue and Borel sigma-algebras.
 
 ```
