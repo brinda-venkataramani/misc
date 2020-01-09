@@ -106,3 +106,12 @@ Math 790       Major Research Project
 [**] - I gave a talk for this course as well. My talk was on the cardinality of the Lebesgue and Borel sigma-algebras.
 
 ```
+
+Here are my GPA totals for my Master's degree. I will update these numbers as and when I receive my marks:
+
+```
+
+GPA: 11.7 (~ 3.9/4.0)
+
+```
+
