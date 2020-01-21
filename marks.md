@@ -94,7 +94,7 @@ Course Code    Course Title                               Grade (on 12.0 scale)
 Fall 2019
 Math 6B03      Calculus on Manifolds                      12                    [*]
 Math 711       Model Theory                               12
-Math 721       Analysis I                                 IP                    [**]
+Math 721       Analysis I                                 12                    [**]
 Math 731       Algebraic Topology I                       11
 Math 790       Major Research Project
 
@@ -111,7 +111,7 @@ Here are my GPA totals for my Master's degree. I will update these numbers as an
 
 ```
 
-GPA: 11.7 (~ 3.9/4.0)
+GPA: 11.75(~ 3.93/4.0)
 
 ```
 
