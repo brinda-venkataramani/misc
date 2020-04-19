@@ -99,7 +99,7 @@ Math 731       Algebraic Topology I                       11
 Math 790       Major Research Project
 
 Winter 2020
-Math 6LT3      Topics in Logic
+Math 6LT3      Topics in Logic                            12                    
 Math 790       Major Research Project
 
 [*] - This course is a crosslisted undergraduate course. As a graduate student I had to give a talk on a topic of my choosing at the end of the semester. To this effect, I gave a presentation on various isoperimetric inequalities. I received 20/20 on the presentation.
