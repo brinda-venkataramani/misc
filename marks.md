@@ -86,7 +86,7 @@ Comprehensive Exam
 
 ```
 
-Of course, academic excellence is also a prerequisite to be considered for admission into a top tier graduate school. So here are my marks acheived in my Master's degree (I haven't decided on a third course for the Winter term; I'm hoping Lie Groups is offered. Otherwise, I'll probably take Algebra II or something; maybe Analysis II. I plan on sitting in on Algebra I in the Fall term.):
+Here are my marks in my Master's degree:
 
 ```
 Course Code    Course Title                               Grade (on 12.0 scale)
@@ -102,6 +102,9 @@ Winter 2020
 Math 6LT3      Topics in Logic                            12                    
 Math 790       Major Research Project
 
+Fall 2020
+Math 701       Algebra I
+
 [*] - This course is a crosslisted undergraduate course. As a graduate student I had to give a talk on a topic of my choosing at the end of the semester. To this effect, I gave a presentation on various isoperimetric inequalities. I received 20/20 on the presentation.
 [**] - I gave a talk for this course as well. My talk was on the cardinality of the Lebesgue and Borel sigma-algebras.
 
@@ -111,7 +114,7 @@ Here are my GPA totals for my Master's degree. I will update these numbers as an
 
 ```
 
-GPA: 11.75(~ 3.93/4.0)
+GPA: 11.75(~ 3.98/4.0)
 
 ```
 
