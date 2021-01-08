@@ -103,7 +103,17 @@ Math 6LT3      Topics in Logic                            12
 Math 790       Major Research Project
 
 Fall 2020
-Math 701       Algebra I
+Math 701       Algebra I                                  12
+CS 701         Discrete Mathematics and Type Theory       12
+CS 6ET3        Recursion Theory                           
+
+Winter 2021
+Math 702       Algebra II
+Math 722       Analysis II
+Math 723       Functional Analysis
+Math 6ET3      Topics in Algebra
+CS 703         Complexity Theory
+Physics 6Q03   Quantum Field Theory
 
 [*] - This course is a crosslisted undergraduate course. As a graduate student I had to give a talk on a topic of my choosing at the end of the semester. To this effect, I gave a presentation on various isoperimetric inequalities. I received 20/20 on the presentation.
 [**] - I gave a talk for this course as well. My talk was on the cardinality of the Lebesgue and Borel sigma-algebras.
