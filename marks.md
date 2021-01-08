@@ -124,7 +124,7 @@ Here are my GPA totals for my Master's degree. I will update these numbers as an
 
 ```
 
-GPA: 11.75(~ 3.98/4.0)
+GPA: 11.875 (~ 3.99/4.0)
 
 ```
 
